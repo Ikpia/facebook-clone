@@ -1,0 +1,121 @@
+#f {height: 22%;
+    width: 22%;
+    
+}
+
+#note img {
+    float: right;
+    height: 5%;
+    width: 5%;
+    margin-right: 30%;
+
+}
+#search img {
+    float: right;
+    height: 5%;
+    width: 5%;
+    
+}
+#home img {
+    margin-left: 30px;
+    height: 5%;
+    width: 5%;
+
+}
+#friends img {
+    margin-left: 40px;
+    height: 5%;
+    width: 5%;
+
+}
+#messages img {
+    margin-left: 40px;
+    height: 5%;
+    width: 5%;
+}
+#notification img{
+    margin-left: 40px;
+    height: 4%;
+    width: 4%;
+}
+#videos img {
+    margin-left: 40px;
+    height: 5%;
+    width: 5%;
+}
+#new img {
+    margin-left: 40px;
+    height: 5%;
+    width: 5%;
+}
+#story  {
+    margin-left: 30px;
+    margin-top: 20px;
+    display: inline-block;
+
+}
+#text {
+    margin-left: 50px;
+    height: 10%;
+    width: 38%;
+    display: inline;
+    border-radius: 100px;
+    margin-bottom: 20px ;
+    background-color: #f3f3ff;
+    margin-right: 680px;
+    margin-top: 35px;
+    position: absolute;
+}
+#photo img {
+    margin-top: 35px;
+    height: 12%;
+    width: 5%;
+    margin-left: 55%;
+
+    
+}
+
+#feel a  {
+    text-decoration: none;
+    color: black;
+}
+#feel img {
+    margin-left: 3.5%;
+    height: 2.5%;
+    width: 2.5%;
+}
+#feeling {
+   
+    font-size: 30px;
+}
+#live {
+    
+    font-size: 30px;
+}
+#location {
+    
+    font-size: 30px;
+}
+#space {
+    background: grey;
+}
+#status a {
+    margin-left: 17px;
+    
+}
+#status img {
+    display: inline-block;
+    height: 30%;
+    width: 15%;
+}
+#spade {
+    background-color: grey;
+}
+#body {
+    margin-left: 30px;
+   
+}
+#body img {
+    height: 55%;
+    width: 55%;
+}
